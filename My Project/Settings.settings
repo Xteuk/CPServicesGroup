@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Tips" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;You can double-click on any filter button to fast-select a display.&lt;/string&gt;
+  &lt;string&gt;You can drag&amp;amp;&amp;amp;drop services into a group.&lt;/string&gt;
+  &lt;string&gt;You can start and stop all services from a group at once.&lt;/string&gt;
+  &lt;string&gt;You can change a service startup type with the context menu.&lt;/string&gt;
+  &lt;string&gt;You can see all tips in the About window, by clicking on it.&lt;/string&gt;
+  &lt;string&gt;Services status updates automatically, event if its changed from outside.&lt;/string&gt;
+  &lt;string&gt;You can rename a group by using the interface, the context menu, or by clicking on it.&lt;/string&gt;
+  &lt;string&gt;You can filter the services list to show only those having this text in their name.&lt;/string&gt;
+  &lt;string&gt;System services are available also, but it is recommended NOT TO CHANGE THEM.&lt;/string&gt;
+  &lt;string&gt;A group is not showing recorded services that don't exist anymore in the OS.&lt;/string&gt;
+  &lt;string&gt;You can see a service real name by selecting it and looking at the window's title.&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

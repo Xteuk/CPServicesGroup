@@ -1,0 +1,5 @@
+Extract the ZIP right where you want.
+
+That's all : clic the "CP Services Group.exe" to run.
+
+You may not even need the provided dll.
